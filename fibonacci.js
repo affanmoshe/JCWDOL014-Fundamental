@@ -2,7 +2,7 @@
 // 0 1 1 2 3 5 8 13 21 34 ... 
 
  15
-let a =let n = 0 
+let a = 0 
 let b = 1
 let nextNumber = 0 
 
